@@ -2,6 +2,8 @@
 
 # MyList && Other
 DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,t.me
 
 # 国外域名关键字
 DOMAIN-KEYWORD,1e100
