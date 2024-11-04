@@ -1,6 +1,9 @@
 # 代理列表
 DOMAIN-SUFFIX,duyaoss.com
 
+# plex
+DOMAIN-SUFFIX,plex.tv
+
 # google
 DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,googleapis.com
